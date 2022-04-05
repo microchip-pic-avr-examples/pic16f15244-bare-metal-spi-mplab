@@ -20,7 +20,7 @@
         ],
         "dfp": {
             "name": "PIC16F1xxxx_DFP",
-            "semverRange": "1.10.174"
+            "semverRange": "^1.10.174"
         },
         "device": {
             "metaDataVersion": "1.0.0",
